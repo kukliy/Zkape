@@ -1,0 +1,3 @@
+web3>=6.4.0
+pyuseragents>=1.0.5
+Brotli>=1.0.9
