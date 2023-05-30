@@ -26,7 +26,7 @@
 
 
 #### Формат прокси:
-`login,password@ip,port`
+`login:password@ip:port`
 
 
 ## !
